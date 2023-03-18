@@ -3,6 +3,6 @@ git is a free software distributed under the GPI.
 git has a mutable index called stage
 git tracks changes.
 Creating a new branch is quick and simple
-do you feel happy
 yes
+ubuntu:i am ubuntu
 
