@@ -5,4 +5,5 @@ git tracks changes.
 Creating a new branch is quick and simple
 yes
 ubuntu:i am ubuntu
-
+win10:i am leader
+vmbox:yes
