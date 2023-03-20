@@ -6,3 +6,5 @@ Creating a new branch is quick and simple
 <<<<<<< HEAD
 win10:i am leader
 vmbox:yes
+
+sourcetree test
